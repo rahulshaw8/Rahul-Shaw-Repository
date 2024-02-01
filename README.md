@@ -2,7 +2,7 @@
 # Trie data structure
 A little Search Engine implementation using Trie Data Structure.
 
-[*See Documentation*](https://rohitkaushal7.github.io/trie-search)
+[*See Documentation*](https://rahulshaw8.github.io/Rahul-Shaw-Repository)
 
 ### scripts
 - `make`
